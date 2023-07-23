@@ -1,4 +1,6 @@
-
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/yobJmOSmqYTdSEaS9e/giphy.gif" width="100"/>
+</div>
 <div align="center">
 Hey there, I'm Mahnoor, your friendly neighborhood frontend Web developer! 
   <br>
@@ -11,9 +13,7 @@ Let's cut the small talk and let the code take center stage – it's the languag
  <div align="center">
    Reach me out through my social handles
  </div>
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/yobJmOSmqYTdSEaS9e/giphy.gif" width="100"/>
-</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mahnoor-a-coding7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
