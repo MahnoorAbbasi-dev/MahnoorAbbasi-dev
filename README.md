@@ -11,7 +11,8 @@
 </div>
 
 <div align="center">
-  Hi, I’m Noor. I’m interested in programming and currently learning MERN stack.
+Hey there, I'm Mahnoor, your friendly neighborhood frontend Web developer! Armed with HTML, CSS, Javascript, and the mighty React Js. Oh, and you bet Bootstrap is my trusty sidekick in this coding adventure. And hey, don't even get me started on ChatGPT – it's my secret weapon! 😉<br>
+Let's cut the small talk and let the code take center stage – it's the language we speak fluently here! So, brace yourself for some coding fun and epic creations! 🚀💻🎉
  </div>
  <div align="center">
    Reach me out through my social handles
