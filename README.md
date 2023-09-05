@@ -53,7 +53,7 @@ Before we begin, ensure you have Node.js and npm (Node Package Manager) installe
    npm create vite@latest
    ```
 
-   - Project Name: (Press Enter to create files in the existing folder)
+   - Project Name: (Press . to create files in the existing folder)
    - Package Name: [Your Project Name]
    - Framework: React
    - Variant: JavaScript
