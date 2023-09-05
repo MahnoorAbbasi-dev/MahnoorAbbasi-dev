@@ -2,9 +2,12 @@
   <img src="https://media.giphy.com/media/yobJmOSmqYTdSEaS9e/giphy.gif" width="100"/>
 </div>
 <div align="center">
-Hey there, I'm Mahnoor, your friendly neighborhood frontend Web developer! 
+Hey there, I'm Mahnoor, your friendly MERN Stack Web developer! 
+ <br>
+ With a knack for crafting seamless CRUD APIs and a flair for saving data in MongoDB and Firebase, I bring the backend to life! Node.js and Express are my go-to tools for creating robust server-side solutions.
   <br>
-  Armed with HTML, CSS, Javascript, and the mighty React Js. Oh, and you bet Bootstrap is my trusty sidekick in this coding adventure. And hey, don't even get me started on ChatGPT – it's my secret weapon! 😉<br>
+  On the front-end, I'm your HTML, CSS, and React JS enthusiast. Bootstrap? It's my trusty sidekick in this coding adventure.
+ And hey, don't even get me started on ChatGPT – it's my secret weapon! 😉<br>
 Let's cut the small talk and let the code take center stage – it's the language we speak fluently here!<br>
   So, brace yourself for some coding fun and epic creations! 🚀💻🎉
   <br>
@@ -21,11 +24,6 @@ Let's cut the small talk and let the code take center stage – it's the languag
   <a href="https://www.instagram.com/code_with_noor/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-</div>
-
-  
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
 </div>
 
 
@@ -132,6 +130,11 @@ When creating new files, use the `rfc` or `rfce` snippets in VS Code to generate
 Congratulations! You've now set up your React project with Vite and integrated Bootstrap for styling. Start building your React app by creating components and pages in their respective folders.
 
 Feel free to customize and expand your project as needed. Happy coding!
+
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
+</div>
+
 
 ---
 
