@@ -2,20 +2,28 @@
   <img src="https://media.giphy.com/media/yobJmOSmqYTdSEaS9e/giphy.gif" width="100"/>
 </div>
 <div align="center">
-Hey there, I'm Mahnoor, your friendly MERN Stack Web developer! 
+Hey there, I'm Mahnoor, your dedicated MERN Stack Web developer! 🚀
+ <br><br>
+ Behind the scenes, I specialize in crafting seamless CRUD APIs and mastering data storage with MongoDB and Firebase. Node.js and Express are my trusty allies for building robust server-side solutions.
+ <br> <br>
+ But it doesn't stop there!
  <br>
- With a knack for crafting seamless CRUD APIs and a flair for saving data in MongoDB and Firebase, I bring the backend to life! Node.js and Express are my go-to tools for creating robust server-side solutions.
-  <br>
-  On the front-end, I'm your HTML, CSS, and React JS enthusiast. Bootstrap? It's my trusty sidekick in this coding adventure.
- And hey, don't even get me started on ChatGPT – it's my secret weapon! 😉<br>
-Let's cut the small talk and let the code take center stage – it's the language we speak fluently here!<br>
-  So, brace yourself for some coding fun and epic creations! 🚀💻🎉
+ On the front-end, I'm all about HTML, CSS, and React JS, making sure the user experience is top-notch
+ <br>
+ Bootstrap? It's my trusty sidekick in this coding adventure.
+ <br>
+ And hey, don't even get me started on ChatGPT – it's my secret weapon! Together, we create coding magic.😉
+ <br><br>
+Let's skip the small talk and dive straight into code; after all, it's our native language here.
+ <br>
+ Get ready for some thrilling coding adventures and epic creations! 🚀💻🎉
   <br>
   <br>
  </div>
  <div align="center">
    Reach me out through my social handles
  </div>
+ <br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mahnoor-a-coding7">
